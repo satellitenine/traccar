@@ -1,13 +1,13 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Traccar",
+    "title": "CIMS-APOS",
     "version": "5.0",
-    "description": "Traccar GPS tracking server API documentation. To use the API you need to have a server instance. For testing purposes you can use one of free [demo servers](https://www.traccar.org/demo-server/). For production use you can install your own server or get a [subscription service](https://www.traccar.org/product/tracking-server/).",
+    "description": "CIMS Asset Positioning GPS tracking server API documentation. To use the API you need to have a server instance.. For production use you can install your own server).",
     "contact": {
-      "name": "Traccar Support",
-      "url": "https://www.traccar.org/",
-      "email": "support@traccar.org"
+      "name": "CIMS",
+      "url": "https://www.shiftenvironmental.com/",
+      "email": "jspencer@shiftenvironmental.com"
     },
     "license": {
       "name": "Apache 2.0",
